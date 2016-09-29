@@ -37,7 +37,7 @@ public class Meny {
 					System.out.println("Nu ändrar ja igen");
 			}
 		}while (val != 4);
-		
+		//Sweeet meny!
 	}
 
 }

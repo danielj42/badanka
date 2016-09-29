@@ -33,7 +33,7 @@ public class Meny {
 				
 			default:
 					System.out.println("Ogiltigt val!");
-					System.out.println("Det här är en onödig ändring");
+					System.out.println("Det här är en till ändring");
 			}
 		}while (val != 4);
 		
